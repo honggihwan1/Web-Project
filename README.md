@@ -1,8 +1,8 @@
 
 ### 기간: 2022.03.20 ~ 2022.06.15
 jsp와 html을 융합하여 만든 쇼핑몰,게시판 사이트 입니다.
-### 팀: 홍기환 ( Front End )
-## 팀: 권민재 ( Back End )
+## 팀: 홍기환 ( Front End )
+### 팀: 권민재 ( Back End )
 
 # Shop(Web) - with BootStrap
 
